@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Erik/Documents/Pasta%20Pessoal/MLFLOW/mlfow1/notebooks/mlruns/1/90bba852f94e44c2905e10b05db32aa5/artifacts
+end_time: 1649193914852
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 90bba852f94e44c2905e10b05db32aa5
+run_uuid: 90bba852f94e44c2905e10b05db32aa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1649193167543
+status: 3
+tags: []
+user_id: Erik

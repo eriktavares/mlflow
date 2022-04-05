@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/Erik/Documents/Pasta%20Pessoal/MLFLOW/mlfow1/notebooks/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: house-prices-eda
